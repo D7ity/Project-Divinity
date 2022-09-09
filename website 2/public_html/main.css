@@ -1,0 +1,75 @@
+div {
+    background-color: black;
+    margin-top: 250px;
+    margin-left: 112px;
+}
+
+img {
+    margin-top: -225px;
+    margin-right: 20px;
+    width: 630px;
+    height: 630px;
+}
+
+button {
+    background-color:  black; 
+    border-color: white;
+    color: white;
+    padding: 15px 32px;
+    text-align: left;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+    border-radius: 12px;
+    cursor: pointer;
+
+}
+
+form {
+    text-align: left;
+    float: left;
+    cursor: pointer;
+
+
+
+
+
+}
+
+h1 {
+    text-align: left;
+    color: white;
+    font-family: 'Suez One', serif;
+    font-size: 75px;
+    font-weight: bold;
+
+
+
+
+
+}
+
+h2 {
+    text-align: left;
+    color: white;
+    font-family: 'Kanit', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+strong {
+    color: #3BB2E2 ;
+    font-family: 'Suez One', serif;
+    font-weight: bold;
+}
+
+
+span {
+    color: #3BB2E2 ;
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+
+body { 
+    background-color: black;
+}
